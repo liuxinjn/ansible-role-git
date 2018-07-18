@@ -7,7 +7,7 @@ workspace: /root
 git_enablerepo: ""
 git_packages:
   - git
-  - git-svn
+#  - git-svn
 
 # If set to TRUE, git will be installed from source, using the version set with
 # the 'git_version' variable instead of using a package.
