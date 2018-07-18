@@ -1,0 +1,4 @@
+---
+- hosts: centos1
+  roles:
+    - ansible-role-git
